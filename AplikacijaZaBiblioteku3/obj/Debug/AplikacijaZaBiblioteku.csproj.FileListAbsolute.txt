@@ -1,0 +1,4 @@
+C:\Users\ucenik\Downloads\AplikacijaZaBiblioteku3\obj\Debug\AplikacijaZaBiblioteku.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\AplikacijaZaBiblioteku3\obj\Debug\AplikacijaZaBiblioteku.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\AplikacijaZaBiblioteku3\obj\Debug\AplikacijaZaBiblioteku.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\AplikacijaZaBiblioteku3\obj\Debug\AplikacijaZaBiblioteku.csproj.SuggestedBindingRedirects.cache
